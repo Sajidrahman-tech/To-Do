@@ -1,6 +1,5 @@
 # ✅ TaskFlow - Simple To-Do Application
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/taskflow)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/taskflow)
 
@@ -409,9 +408,6 @@ Contributions are welcome! Here's how you can help:
 - **Mobile Keyboards**: Some mobile keyboards may not trigger enter key
 - **Safari**: Minor CSS inconsistencies in older Safari versions
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
